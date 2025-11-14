@@ -1,4 +1,4 @@
-module github.com/adeel26in/screensh
+module screensh
 
 go 1.25.4
 
