@@ -1,3 +1,18 @@
+//go:build windows
+
+package main
+
+import (
+	"fmt"
+	"image/png"
+	"os"
+	"os/exec"
+	"path/filepath"
+	"time"
+
+	"github.com/adeel26in/screenshot"
+)
+
 func windows() {
 	fmt.Println("Welcome to screensh!")
 
