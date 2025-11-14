@@ -1,3 +1,7 @@
++build linux
+
+package main
+
 func linux() {
 
 	fmt.Println("Welcome to screensh!")
