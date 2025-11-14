@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/vova616/screenshot"
+	"github.com/adeel26in/screenshot"
 )
 
 func linux() {
