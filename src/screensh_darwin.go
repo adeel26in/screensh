@@ -1,3 +1,7 @@
++build darwin
+
+package main
+
 func darwin() {
 
 	fmt.Println("Welcome to screensh!")
