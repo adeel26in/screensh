@@ -1,4 +1,4 @@
-module github.com/adeel26in/screensh
+module github.com/adeel26in/screensh/src
 
 go 1.25.4
 
