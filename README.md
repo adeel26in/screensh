@@ -10,4 +10,4 @@ cd screensh
 
 go mod tidy
 
-go build # Run go run . if you just wanna run as it is
+go build -o screensh ./src # Run go run . if you just wanna run as it is
