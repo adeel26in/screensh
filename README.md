@@ -6,6 +6,8 @@ Install it using the binaries available on the "Releases" page or run this (Late
 
 git clone https://github.com/adeel26in/screensh
 
-cd screensh/src
+cd screensh
+
+go mod tidy
 
 go build # Run go run . if you just wanna run as it is
