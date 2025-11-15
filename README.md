@@ -1,5 +1,15 @@
 screensh
 
+Opreating Systems that are supported:
+
+Windows
+
+Linux
+
+MacOS (NO BINARIES)
+
+FreeBSD (Planned)
+
 WARNING: GO NEEDS TO BE INSTALLED AND PREBUILT BINARIES ARE NOT AVAILABLE FOR MAC0S!
 
 Install it using the binaries available on the "Releases" page or run this (Latest):
