@@ -2,13 +2,13 @@ screensh
 
 Opreating Systems that are supported:
 
-Windows
+1. Windows
 
-Linux
+2. Linux
 
-MacOS (NO BINARIES)
+3. MacOS (NO BINARIES)
 
-FreeBSD (Planned)
+4. FreeBSD (Planned)
 
 WARNING: GO NEEDS TO BE INSTALLED AND PREBUILT BINARIES ARE NOT AVAILABLE FOR MAC0S!
 
