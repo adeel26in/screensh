@@ -8,7 +8,7 @@ Opreating Systems that are supported:
 
 3. MacOS (NO BINARIES)
 
-4. FreeBSD (Planned)
+4. FreeBSD
 
 WARNING: GO NEEDS TO BE INSTALLED AND PREBUILT BINARIES ARE NOT AVAILABLE FOR MAC0S!
 
