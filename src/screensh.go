@@ -16,7 +16,9 @@ func main() {
 		darwin()
 	case "windows":
 		windows()
+	case "freebsd":
+		freebsd()
 	default:
-		fmt.Println("Couldn't detect your OS!")
+		fmt.Println("Unsupported OS: ", useros)
 	}
 }
