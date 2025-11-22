@@ -118,6 +118,8 @@ func windows() {
 func freebsd() {
 	fmt.Println("Welcome to screensh!")
 
+	fmt.Println("X11 ONLY!")
+
 	fmt.Println("SCREENSHOTS AFTER 2 SECONDS!")
 
 	var fileaddress string
